@@ -1,7 +1,7 @@
-package com.springmvc.servlet.basic.response;
+package springmvc.servlet.basic.response;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.springmvc.servlet.basic.HelloData;
+import springmvc.servlet.basic.HelloData;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

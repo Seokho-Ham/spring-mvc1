@@ -1,4 +1,4 @@
-package com.springmvc.servlet.basic;
+package springmvc.servlet.basic;
 
 import lombok.Getter;
 import lombok.Setter;

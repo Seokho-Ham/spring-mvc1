@@ -1,4 +1,4 @@
-package com.springmvc.servlet.basic.response;
+package springmvc.servlet.basic.response;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

@@ -1,4 +1,4 @@
-package com.springmvc.servlet;
+package springmvc.servlet;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
